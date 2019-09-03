@@ -24,5 +24,5 @@ Software requirements for this course can be found on [fredhutch.io's Software p
 * `exercises/` includes a file for each week representing both the aggregated in-class exercises as well as additional
 supplemental exercises for practice
 * `solutions/` includes the solutions for all files in `exercises/`
-* `resources.md` includes useful links mentioned during lessons; additional information about continued learning in R as well as Hutch-specific resources can be found on the [Data Science Wiki](https://sciwiki.fredhutch.org/bioinformatics/prog_overview/)
+* `instructors.md` includes information for instructors to facilitate teaching each lesson
 * `hackmdio.txt` is an archive of the [interactive webpage](https://hackmd.io) used during lessons
