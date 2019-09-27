@@ -21,8 +21,8 @@ Software requirements for this course can be found on [fredhutch.io's Software p
 ## Resources
 
 * Each week's materials are described in the script prefaced with the number of the week.
-* `exercises/` includes a file for each week representing both the aggregated in-class exercises as well as additional
+* [`exercises/`](exercises/) includes a file for each week representing both the aggregated in-class exercises as well as additional
 supplemental exercises for practice
-* `solutions/` includes the solutions for all files in `exercises/`
-* `instructors.md` includes information for instructors to facilitate teaching each lesson
-* `hackmdio.txt` is an archive of the [interactive webpage](https://hackmd.io) used during lessons
+* [`solutions/`](solutions/) includes the solutions for all files in `exercises/`
+* [`instructors.md`](instructors.md) includes information for instructors to facilitate teaching each lesson
+* [`hackmdio.txt`](hackmdio.txt) is an archive of the [interactive webpage](https://hackmd.io) used during lessons
