@@ -2,7 +2,7 @@
 
 #### Objectives ####
 
-# review previous week's objectives
+# review previous class's objectives
 # Today:
 #
 
@@ -12,4 +12,4 @@
 #### Wrapping up ####
 
 # review objectives
-# preview next week's objectives
+# preview next class's objectives
