@@ -1,31 +1,26 @@
-#### [[course and class]] ####
+# Course title
+# Class 1: Subtitle
 
-#### Before class ####
+## Objectives
 
-# share URL to hack.md
-# check software installation
+By the end of this lesson,
+you should be able to:
+-  
 
-#### Welcome ####
-
-# instructor introduction
-# overview of fredhutch.io
-# sign in
-# learner introductions and motivation
-# overview course philosophy, how to stay engaged
-# course objectives:
-
-#### Objectives ####
-
-# Today:
-#
-
-#### Subheading ####
+## Getting started
 
 
-#### Wrapping up ####
 
-# make sure work is saved
-# review how to get back into work
-# review objectives
-# preview next class's objectives
-# remind to sign in
+
+## Wrapping up
+
+make sure work is saved
+
+review how to get back into work
+
+review objectives
+
+preview next class's objectives
+
+## Errata
+
